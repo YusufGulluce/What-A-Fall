@@ -7,3 +7,6 @@
  Development Details:
  - The first game project ever finished.
  - No AI support is used in any development or designing process.
+
+ Notes:
+ - Game Link on Itch.io: https://light-erkek.itch.io/what-a-fall
